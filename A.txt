@@ -1,1 +1,1 @@
-This is the first file for demo of git and github
+This is the first file for demo of git and github. It contains many things.
